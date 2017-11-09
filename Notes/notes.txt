@@ -1,0 +1,1 @@
+H2 is the embedded database in a spring boot app
